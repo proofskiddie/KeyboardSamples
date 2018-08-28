@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Keyboard Samples</string>
+    <string name="button_main_text">Show</string>
+    <string name="edit_text_hint">Enter a message</string>
+    <string name="edit_pass_hint">Enter a password</string>
+    <string name="edit_email_hint">Enter an email address</string>
+    <string name="edit_phone_hint">Enter phone number</string>
+    <string name="phone_content">Nothing Entered</string>
+    <string name="phone_label">Phone Number:</string>
+    <string-array name="label_array">
+        <item>Home</item>
+        <item>Work</item>
+        <item>Mobile</item>
+        <item>Other</item>
+    </string-array>
+</resources>
